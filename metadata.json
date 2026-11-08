@@ -1,0 +1,6 @@
+{
+  "name": "فاير ولف",
+  "description": "تطبيق فاير ولف لتنظيم الألعاب ونقل الرموز ومعزز الألعاب وإدارة الحسابات والتحديات والمزامنة السحابية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
